@@ -3,6 +3,10 @@ Es un programa que realiza el registro de lecturas y escritores a partir de arch
 
 ![Image text](/menu_usuario.jpg)
 
+## Proyecto grupal
+
+- Programa realizado en grupo (3 integrantes)
+
 ## Lenguaje usado
 
 - C++
